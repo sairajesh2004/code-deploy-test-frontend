@@ -1,0 +1,47 @@
+.maincont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mainhead {
+  font-weight: bold;
+  font-family: 'Lobster';
+  margin: 5px;
+  margin-bottom: 20px;
+}
+
+.headercont {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  list-style-type: none;
+}
+
+.reposcont {
+  display: flex;
+  flex-wrap: wrap;
+  width: 700px;
+}
+
+.theloader {
+  margin-top: 100px;
+}
+
+.failurecont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.failureimg {
+  width: 400px;
+  height: 500px;
+  margin: 15px;
+}
+
+.failurehead {
+  font-weight: bold;
+  font-size: 25px;
+}
